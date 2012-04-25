@@ -39,7 +39,7 @@
      *
      * @var string
      */
-    private $m_addAction = 'add';
+    protected $m_addAction = 'add';
 
     /**
      * The action handler method
