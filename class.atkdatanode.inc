@@ -32,7 +32,7 @@ class atkDataNode extends atkNode
    *
    * @var array
    */
-  private $m_data = array();
+  protected $m_data = array();
 
   /**
    * Constructor.
